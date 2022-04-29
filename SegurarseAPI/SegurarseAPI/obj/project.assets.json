@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joako\\source\\repos\\SegurarseAPI\\SegurarseAPI\\SegurarseAPI.csproj",
+      "projectUniqueName": "D:\\GITKRAKEN\\segurarseApi\\SegurarseAPI\\SegurarseAPI\\SegurarseAPI.csproj",
       "projectName": "SegurarseAPI",
-      "projectPath": "C:\\Users\\joako\\source\\repos\\SegurarseAPI\\SegurarseAPI\\SegurarseAPI.csproj",
+      "projectPath": "D:\\GITKRAKEN\\segurarseApi\\SegurarseAPI\\SegurarseAPI\\SegurarseAPI.csproj",
       "packagesPath": "C:\\Users\\joako\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joako\\source\\repos\\SegurarseAPI\\SegurarseAPI\\obj\\",
+      "outputPath": "D:\\GITKRAKEN\\segurarseApi\\SegurarseAPI\\SegurarseAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
