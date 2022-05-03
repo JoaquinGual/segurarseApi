@@ -23,7 +23,8 @@ namespace SegurarseAPI.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=JGUAL\\JOAQUIN;Database=Segurarse;Trusted_Connection=True;");
+                //optionsBuilder.UseSqlServer("Server=JGUAL\\JOAQUIN;Database=Segurarse;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-RCG4KD4\\JOAQUIN;Database=Segurarse;Trusted_Connection=True;");
             }
         }
 
